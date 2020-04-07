@@ -1,6 +1,7 @@
 # anomalyMulti
 
 This is an implementation of anomaly detection for mutivariate time series. This was done for the blog post by the same title.
+Blog: https://kenluck2001.github.io/blog_post/real-time_anomaly_detection_for_multivariate_data_stream.html
 
 The most important files containing the core of the implement algorithm
 - anomalymulti.py
